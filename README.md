@@ -22,7 +22,7 @@ A API está totalmente funcional e disponível publicamente:
 | **Linguagem** | **JavaScript** (ES6+) | Linguagem de programação principal. |
 | **Runtime** | **Node.js** | Ambiente de execução do servidor. |
 | **Framework** | **Express.js** | Framework web utilizado para roteamento e construção da API REST. |
-| **Banco de Dados** | MongoDB / PostgreSQL / JSON File (Qual você usou?) | Sistema de gestão para armazenamento dos dados históricos. |
+| **Banco de Dados** | JSON File  | Sistema de gestão para armazenamento dos dados históricos. |
 | **Hospedagem** | **Render** | Serviço utilizado para o *deploy* e manutenção do servidor em produção. |
 | **Outros** | Axios / Fetch (para busca de dados) | Se a API consome dados de uma fonte externa. |
 
